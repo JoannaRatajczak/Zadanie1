@@ -3,5 +3,6 @@ public class Body {
         System.out.println("Uczę się programowania");
         System.out.println("zmiana 1");
         System.out.println("zmiana 2");
+        System.out.println("zmiana 3 ? ");
     }
 }
